@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+   <meta charset="utf-8">
+   <title>Query</title>
+
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+        integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="stylesheet"  href="{{ url_for('static', filename='style.css') }}">
+        <link rel="stylesheet"  href="{{ url_for('static', filename='query.css') }}">
+        </head>
+
+<body>
+   <header>
+      <nav>
+         
+            <div class="menu-icon">
+               <span class="fas fa-bars"></span>
+            </div>
+            <div class="logo">
+               Query
+            </div>
+            <div class="nav-items">
+               <li><a href="/">Home</a></li>
+               <li><a href="/#aboutus">About</a></li>
+               <li><a href="/#">Contact</a></li>
+            </div>
+            <div class="search-icon">
+               <span class="fas fa-search"></span>
+            </div>
+            <div class="cancel-icon">
+               <span class="fas fa-times"></span>
+            </div>
+            <form action="#">
+               <input type="search" class="search-data" placeholder="Search" required>
+               <button type="submit" class="fas fa-search"></button>
+            </form>
+
+      </nav>
+      <div class="content">
+         <h1>Lorem ipsum dolor sit amet.</h1>
+         <h1>Lorem ipsum dolor sit amet.</h1>
+         <a href="adm" class="btn btn-adm">Admission</a>
+         <a href="job" class="btn btn-jobs">Jobs</a>
+      </div>
+   </header>
+   
+   <section id="aboutus">
+      <div class="about-header" >
+         <h1>Our Team</h1>
+     </div>
+     <div class="container">
+         <div class="wrapper">
+             <div class="teams">
+                 <img src="{{ url_for('static', filename='adm1.jpg') }}" height="50px" alt="">
+                 <div class="name">Adeel Parvez</div>
+                 <div class="role">Developer</div>
+                 <div class="about">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis veritatis quae molestias provident voluptatibus eos architecto natus dolor voluptate inventore.</div>
+             </div>
+             <div class="social-links">
+                 <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                 <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                 <a href="#"><i class="fa-brands fa-github"></i></a>
+             </div>
+         </div>
+         <div class="wrapper">
+             <div class="teams">
+                 <img src="{{ url_for('static', filename='adm2.jpg') }}" height="50px" alt="">
+                 <div class="name">Anamika Yadav</div>
+                 <div class="role">Designer</div>
+                 <div class="about">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam ut odit repudiandae. Aliquam vitae, aperiam itaque commodi magnam inventore voluptatem.</div>
+             </div>
+             <div class="social-links">
+                 <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                 <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                 <a href="#"><i class="fa-brands fa-github"></i></a>
+             </div>
+         </div>
+         <div class="wrapper">
+             <div class="teams">
+                 <img src="{{ url_for('static', filename='adm3.jpg') }}" height="50px" alt="">
+                 <div class="name">Adesh Pandey</div>
+                 <div class="role">Manager</div>
+                 <div class="about">Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro repellat quibusdam nisi quas ipsam ullam aliquid adipisci officia fugit corrupti!</div>
+             </div>
+             <div class="social-links">
+                 <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                 <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                 <a href="#"><i class="fa-brands fa-github"></i></a>
+             </div>
+         </div>
+ 
+         <div class="wrapper">
+             <div class="teams">
+                 <img src="{{ url_for('static', filename='adm1.jpg') }}" height="50px" alt="">
+                 <div class="name">Aley Ahmed Naqvi</div>
+                 <div class="role">Developer</div>
+                 <div class="about">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa quo rem, optio autem cumque id mollitia animi nulla! Fugit, repudiandae.</div>
+             </div>
+             <div class="social-links">
+                 <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                 <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                 <a href="#"><i class="fa-brands fa-github"></i></a>
+             </div>
+         </div>
+         <div class="wrapper">
+             <div class="teams">
+                 <img src="{{ url_for('static', filename='adm2.jpg') }}" height="50px" alt="">
+                 <div class="name">Anamika Yadav</div>
+                 <div class="role">Designer</div>
+                 <div class="about">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam ut odit repudiandae. Aliquam vitae, aperiam itaque commodi magnam inventore voluptatem.</div>
+             </div>
+             <div class="social-links">
+                 <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                 <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                 <a href="#"><i class="fa-brands fa-github"></i></a>
+             </div>
+         </div>
+         <div class="wrapper">
+             <div class="teams">
+                 <img src="{{ url_for('static', filename='adm3.jpg') }}" height="50px" alt="">
+                 <div class="name">Alok Maurya</div>
+                 <div class="role">Manager</div>
+                 <div class="about">Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro repellat quibusdam nisi quas ipsam ullam aliquid adipisci officia fugit corrupti!</div>
+             </div>
+             <div class="social-links">
+                 <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                 <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                 <a href="#"><i class="fa-brands fa-github"></i></a>
+             </div>
+         </div>
+ 
+     </div>
+   </section>
+
+
+   <script >
+
+   </script>
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+   
+</body>
+
+</html>
