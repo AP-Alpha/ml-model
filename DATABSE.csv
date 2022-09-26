@@ -1,0 +1,241 @@
+category,state,city,college,pcm per,jee
+OPEN,Delhi,,Delhi Technological University,93,2068
+OPEN,Delhi,,IIT delhi,91,1500
+OPEN,Delhi,,NSIT,72,3201
+OPEN,Delhi,,NIIT delhi,87,1711
+OPEN,Delhi,,IIIT delhi,97,2100
+OPEN,Delhi,,Maharaja Surajmal Institute of Technology,91,10000
+OPEN,Delhi,,Amity School of Engineering & Technology,99,50002
+OPEN,Delhi,,Delhi Institute of Tool Engineerin,81,60254
+OPEN,Delhi,,Bhagwan Parshuram Institute of Technology,91,57950
+OPEN,Delhi,,Bharati Vidyapeeth's College of Engineering,77,78622
+OPEN,Delhi,,CBP Government Engineering College,87,46548
+OPEN,Delhi,,Govind Ballabh Pant Engineering College,82,484354
+OPEN,Delhi,,Guru Premsukh Memorial College of Engineering,82,40134
+OPEN,Delhi,,GTBIT,78,33652
+OPEN,Delhi,,HMRITM,85,54656
+OPEN,Delhi,,IMS Engineering Management Technical Campus,71,96534
+OPEN,Delhi,,Indira Gandhi Delhi Technical University for women,89,57701
+OPEN,Delhi,,Maharaja Agrasen Institute of Technology,94,5045
+OPEN,Delhi,,JMI,83,3000
+OPEN,Delhi,,Northern India Engineering College,97,40000
+OPEN,Delhi,,University School of Chemical Technology,78,42000
+OPEN,Delhi,,JAMIA HAMDARD,90,456418
+OPEN,Delhi,,GB Pant Government Engineering College,80,56664
+OPEN,UP,aligarh,AMU,92,46588
+OPEN,UP,kanpur,IIT Kanpur,93,56487
+OPEN,UP,lucknow,IIT LUCKNOW,88,68355
+OPEN,UP,kanpur,Pranveer Singh Institute of Technology,82,120025
+OPEN,UP,gzb,kn modi,99,500042
+OPEN,UP,gzb,ideal institute of engineering,78,586516
+OPEN,UP,gzb,ipec,90,345644
+OPEN,UP,lucknow,shri ram swaroop college,94,964640
+OPEN,UP,gzb,rkgit,92,32455
+OPEN,UP,noida,iec college,86,798561
+OPEN,UP,noida,galgotia,98,684785
+OPEN,UP,gzb,IMS Engineering College,75,868760
+OPEN,UP,meerut,meerut institute of tech,81,74644
+OPEN,UP,mathura,glaitm,80,98789
+OPEN,UP,noida,jss,93,63435
+OPEN,UP,lucknow,IET,72,76535
+OPEN,UP,gzb,AKGEC,98,8874
+OPEN,UP,gzb,KIET,88,65985
+OPEN,UP,JHANSI,biet,87,86565
+OPEN,UP,sultanpur,knit,85,986452
+OPEN,UP,noida,gnit,89,561440
+OPEN,UP,noida,its engineering college,90,498498
+OPEN,UP,noida,skyline engineering college,86,854654
+OPEN,UP,allahabad,united engineering college,72,98641
+OPEN,UP,barabanki,sagar institute of engineering,98,751346
+SC-ST,Delhi,,Delhi Technological University,92,8406
+SC-ST,Delhi,,IIT delhi,90,5910
+SC-ST,Delhi,,NSIT,72,5926
+SC-ST,Delhi,,NIIT delhi,83,4826
+SC-ST,Delhi,,IIIT delhi,99,4194
+SC-ST,Delhi,,Maharaja Surajmal Institute of Technology,84,7723
+SC-ST,Delhi,,Amity School of Engineering & Technology,74,5310
+SC-ST,Delhi,,Delhi Institute of Tool Engineerin,93,4476
+SC-ST,Delhi,,Bhagwan Parshuram Institute of Technology,73,527
+SC-ST,Delhi,,Bharati Vidyapeeth's College of Engineering,70,5527
+SC-ST,Delhi,,CBP Government Engineering College,77,8992
+SC-ST,Delhi,,Govind Ballabh Pant Engineering College,96,960
+SC-ST,Delhi,,Guru Premsukh Memorial College of Engineering,71,3884
+SC-ST,Delhi,,GTBIT,90,5816
+SC-ST,Delhi,,HMRITM,74,3091
+SC-ST,Delhi,,IMS Engineering Management Technical Campus,99,3652
+SC-ST,Delhi,,Indira Gandhi Delhi Technical University for women,87,2444
+SC-ST,Delhi,,Maharaja Agrasen Institute of Technology,90,7804
+SC-ST,Delhi,,JMI,93,3230
+SC-ST,Delhi,,Northern India Engineering College,88,9683
+SC-ST,Delhi,,University School of Chemical Technology,72,9772
+SC-ST,Delhi,,JAMIA HAMDARD,70,3582
+SC-ST,Delhi,,GB Pant Government Engineering College,78,1318
+SC-ST,UP,aligarh,AMU,91,20994
+SC-ST,UP,kanpur,IIT Kanpur,93,35972
+SC-ST,UP,lucknow,IIT LUCKNOW,91,27686
+SC-ST,UP,kanpur,Pranveer Singh Institute of Technology,75,26878
+SC-ST,UP,gzb,kn modi,95,13123
+SC-ST,UP,gzb,ideal institute of engineering,96,39917
+SC-ST,UP,gzb,ipec,93,9434
+SC-ST,UP,lucknow,shri ram swaroop college,99,11504
+SC-ST,UP,gzb,rkgit,80,9990
+SC-ST,UP,noida,iec college,72,29236
+SC-ST,UP,noida,galgotia,89,15629
+SC-ST,UP,gzb,IMS Engineering College,92,37687
+SC-ST,UP,meerut,meerut institute of tech,96,35253
+SC-ST,UP,mathura,glaitm,70,20918
+SC-ST,UP,noida,jss,87,9488
+SC-ST,UP,lucknow,IET,86,22109
+SC-ST,UP,gzb,AKGEC,98,30334
+SC-ST,UP,gzb,KIET,91,13332
+SC-ST,UP,JHANSI,biet,79,13112
+SC-ST,UP,sultanpur,knit,86,9776
+SC-ST,UP,noida,gnit,92,34209
+SC-ST,UP,noida,its engineering college,92,21755
+SC-ST,UP,noida,skyline engineering college,81,37566
+SC-ST,UP,allahabad,united engineering college,87,2314
+SC-ST,UP,barabanki,sagar institute of engineering,85,36050
+OBC,Delhi,,Delhi Technological University,78,1363
+OBC,Delhi,,IIT delhi,69,6662
+OBC,Delhi,,NSIT,59,1038
+OBC,Delhi,,NIIT delhi,64,6019
+OBC,Delhi,,IIIT delhi,63,5357
+OBC,Delhi,,Maharaja Surajmal Institute of Technology,84,4843
+OBC,Delhi,,Amity School of Engineering & Technology,66,1329
+OBC,Delhi,,Delhi Institute of Tool Engineerin,71,3045
+OBC,Delhi,,Bhagwan Parshuram Institute of Technology,75,6336
+OBC,Delhi,,Bharati Vidyapeeth's College of Engineering,70,5063
+OBC,Delhi,,CBP Government Engineering College,80,1876
+OBC,Delhi,,Govind Ballabh Pant Engineering College,81,1775
+OBC,Delhi,,Guru Premsukh Memorial College of Engineering,72,1161
+OBC,Delhi,,GTBIT,62,2962
+OBC,Delhi,,HMRITM,69,3163
+OBC,Delhi,,IMS Engineering Management Technical Campus,83,6581
+OBC,Delhi,,Indira Gandhi Delhi Technical University for women,62,2002
+OBC,Delhi,,Maharaja Agrasen Institute of Technology,62,2448
+OBC,Delhi,,JMI,69,1128
+OBC,Delhi,,Northern India Engineering College,74,3145
+OBC,Delhi,,University School of Chemical Technology,70,2357
+OBC,Delhi,,JAMIA HAMDARD,75,4814
+OBC,Delhi,,GB Pant Government Engineering College,77,3990
+OBC,UP,aligarh,AMU,80,14829
+OBC,UP,kanpur,IIT Kanpur,84,11084
+OBC,UP,lucknow,IIT LUCKNOW,74,7213
+OBC,UP,kanpur,Pranveer Singh Institute of Technology,81,10166
+OBC,UP,gzb,kn modi,83,4996
+OBC,UP,gzb,ideal institute of engineering,68,13327
+OBC,UP,gzb,ipec,83,7094
+OBC,UP,lucknow,shri ram swaroop college,75,4393
+OBC,UP,gzb,rkgit,60,15685
+OBC,UP,noida,iec college,83,11689
+OBC,UP,noida,galgotia,80,15833
+OBC,UP,gzb,IMS Engineering College,66,9578
+OBC,UP,meerut,meerut institute of tech,64,14495
+OBC,UP,mathura,glaitm,65,333
+OBC,UP,noida,jss,63,1852
+OBC,UP,lucknow,IET,78,15646
+OBC,UP,gzb,AKGEC,73,1258
+OBC,UP,gzb,KIET,76,4656
+OBC,UP,JHANSI,biet,76,7454
+OBC,UP,sultanpur,knit,70,7448
+OBC,UP,noida,gnit,68,15597
+OBC,UP,noida,its engineering college,75,1977
+OBC,UP,noida,skyline engineering college,80,8021
+OBC,UP,allahabad,united engineering college,61,15523
+OBC,UP,barabanki,sagar institute of engineering,75,12454
+OPEN,Delhi,,Delhi Technological University,93,2686
+OPEN,Delhi,,IIT delhi,91,1949
+OPEN,Delhi,,NSIT,72,4158
+OPEN,Delhi,,NIIT delhi,87,2223
+OPEN,Delhi,,IIIT delhi,97,2728
+OPEN,Delhi,,Maharaja Surajmal Institute of Technology,91,12988
+OPEN,Delhi,,Amity School of Engineering & Technology,99,64940
+OPEN,Delhi,,Delhi Institute of Tool Engineerin,81,78255
+OPEN,Delhi,,Bhagwan Parshuram Institute of Technology,91,75262
+OPEN,Delhi,,Bharati Vidyapeeth's College of Engineering,77,102110
+OPEN,Delhi,,CBP Government Engineering College,87,60454
+OPEN,Delhi,,Govind Ballabh Pant Engineering College,82,629048
+OPEN,Delhi,,Guru Premsukh Memorial College of Engineering,82,52124
+OPEN,Delhi,,GTBIT,78,43706
+OPEN,Delhi,,HMRITM,85,70984
+OPEN,Delhi,,IMS Engineering Management Technical Campus,71,125373
+OPEN,Delhi,,Indira Gandhi Delhi Technical University for women,89,74939
+OPEN,Delhi,,Maharaja Agrasen Institute of Technology,94,6553
+OPEN,Delhi,,JMI,83,3897
+OPEN,Delhi,,Northern India Engineering College,97,51950
+OPEN,Delhi,,University School of Chemical Technology,78,54547
+OPEN,Delhi,,JAMIA HAMDARD,90,592767
+OPEN,Delhi,,GB Pant Government Engineering College,80,73592
+OPEN,UP,aligarh,AMU,97,60506
+OPEN,UP,kanpur,IIT Kanpur,95,73362
+OPEN,UP,lucknow,IIT LUCKNOW,74,88776
+OPEN,UP,kanpur,Pranveer Singh Institute of Technology,82,155881
+OPEN,UP,gzb,kn modi,73,649423
+OPEN,UP,gzb,ideal institute of engineering,94,761730
+OPEN,UP,gzb,ipec,71,448901
+OPEN,UP,lucknow,shri ram swaroop college,90,1252813
+OPEN,UP,gzb,rkgit,87,42151
+OPEN,UP,noida,iec college,90,1037120
+OPEN,UP,noida,galgotia,82,889355
+OPEN,UP,gzb,IMS Engineering College,92,1128290
+OPEN,UP,meerut,meerut institute of tech,76,96943
+OPEN,UP,mathura,glaitm,72,128301
+OPEN,UP,noida,jss,76,82386
+OPEN,UP,lucknow,IET,90,99399
+OPEN,UP,gzb,AKGEC,94,11525
+OPEN,UP,gzb,KIET,91,85698
+OPEN,UP,JHANSI,biet,79,112426
+OPEN,UP,sultanpur,knit,74,1281141
+OPEN,UP,noida,gnit,91,729163
+OPEN,UP,noida,its engineering college,79,647418
+OPEN,UP,noida,skyline engineering college,98,909970
+OPEN,UP,allahabad,united engineering college,77,128109
+OPEN,UP,barabanki,sagar institute of engineering,92,975800
+OBC,Delhi,,Delhi Technological University,85,456
+OBC,Delhi,,IIT delhi,74,2309
+OBC,Delhi,,NSIT,67,4025
+OBC,Delhi,,NIIT delhi,76,297
+OBC,Delhi,,IIIT delhi,72,2628
+OBC,Delhi,,Maharaja Surajmal Institute of Technology,79,2628
+OBC,Delhi,,Amity School of Engineering & Technology,68,3222
+OBC,Delhi,,Delhi Institute of Tool Engineerin,72,4076
+OBC,Delhi,,Bhagwan Parshuram Institute of Technology,78,657
+OBC,Delhi,,Bharati Vidyapeeth's College of Engineering,79,4551
+OBC,Delhi,,CBP Government Engineering College,69,2185
+OBC,Delhi,,Govind Ballabh Pant Engineering College,79,5216
+OBC,Delhi,,Guru Premsukh Memorial College of Engineering,68,2078
+OBC,Delhi,,GTBIT,66,184
+OBC,Delhi,,HMRITM,59,3337
+OBC,Delhi,,IMS Engineering Management Technical Campus,65,4150
+OBC,Delhi,,Indira Gandhi Delhi Technical University for women,76,1155
+OBC,Delhi,,Maharaja Agrasen Institute of Technology,81,3734
+OBC,Delhi,,JMI,63,3124
+OBC,Delhi,,Northern India Engineering College,72,3667
+OBC,Delhi,,University School of Chemical Technology,62,3537
+OBC,Delhi,,JAMIA HAMDARD,67,4579
+OBC,Delhi,,GB Pant Government Engineering College,72,8444
+OBC,UP,aligarh,AMU,61,3730
+OBC,UP,kanpur,IIT Kanpur,61,17137
+OBC,UP,lucknow,IIT LUCKNOW,62,5158
+OBC,UP,kanpur,Pranveer Singh Institute of Technology,65,5333
+OBC,UP,gzb,kn modi,60,4422
+OBC,UP,gzb,ideal institute of engineering,64,6512
+OBC,UP,gzb,ipec,69,1362
+OBC,UP,lucknow,shri ram swaroop college,67,7956
+OBC,UP,gzb,rkgit,80,4641
+OBC,UP,noida,iec college,74,5251
+OBC,UP,noida,galgotia,82,5644
+OBC,UP,gzb,IMS Engineering College,83,2038
+OBC,UP,meerut,meerut institute of tech,64,8888
+OBC,UP,mathura,glaitm,73,6825
+OBC,UP,noida,jss,75,15122
+OBC,UP,lucknow,IET,73,4890
+OBC,UP,gzb,AKGEC,64,5170
+OBC,UP,gzb,KIET,83,4654
+OBC,UP,JHANSI,biet,78,13154
+OBC,UP,sultanpur,knit,78,14996
+OBC,UP,noida,gnit,79,11302
+OBC,UP,noida,its engineering college,81,11165
+OBC,UP,noida,skyline engineering college,67,13366
+OBC,UP,allahabad,united engineering college,71,9581
+OBC,UP,barabanki,sagar institute of engineering,82,8397
